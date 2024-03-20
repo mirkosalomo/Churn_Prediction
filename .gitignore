@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#To exclude files with the extensions .xlsx and .csv in your .gitignore file, you can add the following lines:
+*.xlsx
+*.csv
+
 # C extensions
 *.so
 
