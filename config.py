@@ -2,6 +2,7 @@ full_path = r"C:/Users/msalomo/OneDrive - NESTLE/Certificate Machine Learning an
 BeverageMachine22_df = full_path + "C4CTAUpload22.csv"
 BeverageMachine23_df = full_path + "C4CTAUpload23.csv"
 BeverageMachine24_df = full_path + "C4CTAUpload24.csv"
+BeverageMachine25_df = full_path + "C4CTAUpload25.csv"
 BevMap_df = full_path + "SBU-11 NESTLE PRO. Translation.csv"
 BeverageClassification_df = full_path + "SBU-11 NESTLE PRO. Models.csv"
 Placement_df = full_path + "Net Placements.xlsx"
